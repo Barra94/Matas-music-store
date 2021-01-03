@@ -43,3 +43,8 @@ Onderstaande punten zijn niet van toepassing voor dit prototype:
 - Er hoeft geen 'winkelmandje' functionaliteit te zijn. 
 - Klikken op 'kopen' betekent dat het nummer/album direct voor de gebruiker beschikbaar is.
 
+## Database
+
+![Matas music store](https://user-images.githubusercontent.com/51465166/103491331-4bf37380-4e23-11eb-9321-efe319d7ce38.png)
+
+
